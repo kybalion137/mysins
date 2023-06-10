@@ -1,0 +1,98 @@
+a.button {
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  width: 375px;
+  height: 50px;
+  margin-right: 40px;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  background-image: linear-gradient(to right, #ffa1a1 0%, #fc3e3e 51%, #7b0505 100%);
+  background-size: 200% auto;
+  box-shadow: 0 0 20px rgba(0, 0, 0, .1);
+  transition: .5s;
+  }
+
+ a.button:hover {
+  background-position: right center;
+  }
+
+blockquote {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #be0f1e;
+    font-weight: 900;
+    font-size: 150%;
+    text-decoration; blink;
+    }
+
+blockquote1 {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #be0f1e;
+    font-weight: 900;
+    font-size: 250%;
+    text-decoration; blink;
+    }
+
+text {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #6c757d;
+    font-weight: 900;
+    font-size: 150%;
+    text-decoration; blink;
+    }
+
+img {
+    border: 3px solid #be0f1e;    /* Рамка вокруг фотографии */
+    padding: 0px;                 /* Расстояние от картинки до рамки */
+    background: none;          /* Цвет фона */
+    margin-right: 40px;           /* Отступ справа */
+}
+
+html {
+    background-image: url(https://img3.akspic.ru/crops/4/6/3/4/44364/44364-les-kartinka-derevo-temnota-temnyj_les-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+footer {
+    background: black;
+}
+
+.social {display: inline-block;}
+.social a {
+	display: block;
+	width: 48px;
+	height: 48px;
+	margin: 0 10px 10px 0;
+	text-align: center;
+	color: #be0f1e;
+	background: #fff;
+	border: 1px solid;
+	border-radius: 24px;
+	box-shadow: 0 2px 4px rgba(0,0,0,0.15), inset 0 0 50px rgba(0,0,0,0.1);
+}
+.social a:hover {color: black;}
+.social svg {
+	margin-top: 7px;
+	width: 32px;
+	height: 32px;
+}
+.instagram a:hover {background: #be0f1e;}
+.telegram a:hover {background: #be0f1e;}
+.vk a:hover {background: #be0f1e;}
+
+.knopka {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+    color: #be0f1e;
+    font-weight: 900;
+    font-size: 300%;
+    text-decoration; blink;
+    }
